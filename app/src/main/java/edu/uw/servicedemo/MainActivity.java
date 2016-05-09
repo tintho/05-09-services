@@ -1,5 +1,6 @@
 package edu.uw.servicedemo;
 
+import android.app.Service;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
